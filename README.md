@@ -6,7 +6,8 @@ This mod adds numerous new ISRU parts, some of which are inspired by KSPIE in ne
 
 - **SystemHeat**: Required for the ISRU modules to work as they are not designed to work with the stock heat system.
 - **ModuleManager**: Required for other mod compatability and some parts of this mod.
-- **B9 Part Switch**: Required for tanks and other storage containers this mod adds.
+- **B9 Part Switch**: Used for tanks and other storage containers this mod adds.
+- **StationPartsExpansionRedux**: Needed for the artificial gravity ring functionality of some ISRU parts, like very big particle accelerators.
 
 ## Compatible Mods
 
